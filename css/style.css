@@ -57,7 +57,6 @@ body {
   padding: 30px;
 }
 
-
 /*
  * Header
  */
@@ -122,7 +121,10 @@ canvas:hover{
 }
 
 .logo-center{
-  width: 50%
+  width: 50%;
+  background: #FFF;
+  box-shadow: 0 0 30px #FFF;
+  border-radius: 100%;
 }
 
 /*
